@@ -1,0 +1,17 @@
+{
+  "name": "ssafycoin",
+  "version": "1.0.0",
+  "description": "SSAFY COIN",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "JS Lim",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
+  }
+}
